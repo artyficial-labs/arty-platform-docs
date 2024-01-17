@@ -27,10 +27,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/advanced": [
+    "/about": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/advanced.js"
+      "static/chunks/pages/about.js"
     ],
     "/another": [
       "static/chunks/webpack.js",

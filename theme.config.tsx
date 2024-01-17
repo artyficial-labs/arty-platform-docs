@@ -1,8 +1,16 @@
 import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
+import Image from 'next/image'
 
 const config: DocsThemeConfig = {
-  logo: <span>My Project</span>,
+  logo: <div>
+    <Image
+    alt="logo"
+    src="/logo_white.png"
+    height={90}
+    width={180}
+    />
+  </div>, 
   project: {
     link: 'https://github.com/shuding/nextra-docs-template',
   },
