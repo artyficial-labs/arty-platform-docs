@@ -6,10 +6,10 @@
     "title": "About",
     "type": "page"
   },
-  "contact": {
-    "title": "Contact ↗",
+  "platform": {
+    "title": "Platform ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://artyficiallabs.com",
     "newWindow": true
   }
 }
