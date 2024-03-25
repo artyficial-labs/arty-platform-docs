@@ -1,7 +1,9 @@
 {
   "index": "Introduction",
   "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "advanced": "Advanced",
+  "text-generation": "Text Generation",
+  "image-generation":"Image Generation",
   "about": {
     "title": "About",
     "type": "page"

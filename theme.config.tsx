@@ -39,7 +39,7 @@ const config: DocsThemeConfig = {
     key: '2.0-release',
     text: (
       <a href="https://artyficiallabs.com" target="_blank">
-        🎉 Artyficial Labs 2.0 is released. Read more →
+        🎉 Artyficial Labs Beta v1.0.0 is released. Sign up →
       </a>
     )
   },
