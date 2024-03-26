@@ -24,13 +24,6 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
-<<<<<<< HEAD
-=======
-    ],
-    "/papers/storytelling": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/papers/storytelling.js"
     ],
     "/papers/visual-analysis": [
       "static/chunks/webpack.js",
