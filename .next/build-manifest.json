@@ -15,11 +15,6 @@
   ],
   "rootMainFiles": [],
   "pages": {
-    "/": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/index.js"
-    ],
     "/_app": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
@@ -32,11 +27,15 @@
 <<<<<<< HEAD
 =======
     ],
-    "/getting-started": [
+    "/papers/storytelling": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/getting-started.js"
->>>>>>> dev
+      "static/chunks/pages/papers/storytelling.js"
+    ],
+    "/papers/visual-analysis": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/papers/visual-analysis.js"
     ]
   },
   "ampFirstPages": []
