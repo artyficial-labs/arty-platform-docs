@@ -25,10 +25,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/techniques/zeroshot": [
+    "/papers/storytelling": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/techniques/zeroshot.js"
+      "static/chunks/pages/papers/storytelling.js"
     ]
   },
   "ampFirstPages": []
