@@ -25,10 +25,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/papers/visual-analysis": [
+    "/techniques/zeroshot": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/papers/visual-analysis.js"
+      "static/chunks/pages/techniques/zeroshot.js"
     ]
   },
   "ampFirstPages": []
