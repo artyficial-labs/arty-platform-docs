@@ -2,6 +2,6 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/papers/visual-analysis": "pages/papers/visual-analysis.js",
-  "/papers/storytelling": "pages/papers/storytelling.js"
+  "/papers/storytelling": "pages/papers/storytelling.js",
+  "/papers": "pages/papers.js"
 }

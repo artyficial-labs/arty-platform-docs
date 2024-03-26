@@ -25,15 +25,15 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
+    "/papers": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/papers.js"
+    ],
     "/papers/storytelling": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/papers/storytelling.js"
-    ],
-    "/papers/visual-analysis": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/papers/visual-analysis.js"
     ]
   },
   "ampFirstPages": []

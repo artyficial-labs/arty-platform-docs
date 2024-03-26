@@ -4,6 +4,7 @@
   "text-generation": "Text Generation",
   "image-generation":"Image Generation",
   "techniques": "Techniques",
+  "papers": "Papers",
   "about": {
     "title": "About",
     "type": "page"
