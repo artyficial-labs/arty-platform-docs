@@ -1,18 +1,14 @@
 import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
-import Image from 'next/image'
+import NextImage from 'next/image'
 
 const config: DocsThemeConfig = {
   logo: () => {
     return (
-    <Image
-    alt= 'logo'
-    src="/logo_white.png"
-    height={90}
-    width={180}
-    />
-    )
+      <NextImage alt="logo" src="/logo_white.png" height={170} width={200} />
+    );
   },
+  // Rest of the configuration remains the same
   project: {
     link: 'https://github.com/artyficial-labs/arty-platform-docs',
   },
@@ -21,7 +17,7 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: 'https://github.com/artyficial-labs/arty-platform-docs/tree/dev/',
   footer: {
-    text: 'Artyficial Docs 2024',
+    text: 'Copyright © Artyficial Labs 2024',
   },
   useNextSeoProps() {
     return {

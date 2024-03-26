@@ -1,9 +1,9 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced",
+  "getting-started": "Getting Started",
   "text-generation": "Text Generation",
   "image-generation":"Image Generation",
+  "techniques": "Techniques",
   "about": {
     "title": "About",
     "type": "page"
