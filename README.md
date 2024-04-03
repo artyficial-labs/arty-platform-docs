@@ -15,3 +15,13 @@ Then, run `pnpm dev` to start the development server and visit localhost:3000.
 ## License
 
 This project is licensed under the MIT License.
+
+## Thank you to 
+
+@article{Saravia_Prompt_Engineering_Guide_2022,
+author = {Saravia, Elvis},
+journal = {https://github.com/dair-ai/Prompt-Engineering-Guide},
+month = {12},
+title = {{Prompt Engineering Guide}},
+year = {2022}
+}
