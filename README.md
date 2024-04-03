@@ -4,7 +4,7 @@ This is a template for creating documentation with [Artyficial Research](https:/
 
 [**Live Demo →**](https://research.artyficiallabs.com/)
 
-[![](.github/screenshot.png)](/public/intro-header.png).
+![Image](/intro-header.png).
 
 ## Local Development
 
