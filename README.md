@@ -1,26 +1,49 @@
-# Artyficial Docs Template 
+# Artyficial Research
 
-This is a template for creating documentation with [Artyficial Research](https://research.artyficiallabs.com/).
+Prompt engineering for Large Language and Diffusion Models are a relatively new disciplines for developing and optimizing creativity and life tasks in general. Prompt engineering skills help to better understand the capabilities and limitations of large language and diffusion models. Researchers use prompt engineering to improve the capacity of large language and diffusion models on a wide range of common and complex tasks such as question answering and creative research. Developers use prompt engineering to design robust and effective prompting techniques that interface with LLMs and other tools. Creatives use prompt engineering for rapid creative brainstorming on projects like character development to storyboarding.
 
-[**Live Demo →**](https://research.artyficiallabs.com/)
+Motivated by the high interest in developing with Generative AI, we have compiled this artyficial research and prompt engineering guide that contains all the latest papers, learning guides, lectures, references, and tools related to prompt engineering using Artyficial Labs generative AI tools.
 
-![Image](/intro-header.png).
+🌐 [Artyficial Labs ](https://artyficiallabs.com/)
 
-## Local Development
 
-First, run `pnpm i` to install the dependencies.
+Happy Prompting!
 
-Then, run `pnpm dev` to start the development server and visit localhost:3000.
+## Announcements / Updates
+
+- 🎉 Artyficial Labs V1.0.1 is now in Beta testing [here](https://artyficiallabs.com)
+
+[Join our Discord](https://discord.gg/fYsFXz8ywm)
+
+# Artyficial research web template 
+
+You can use this template for creating your documentation [Artyficial Research](https://research.artyficiallabs.com/).
+
+## Running the guide locally
+
+To run the guide locally, for example to check the correct implementation of a new translation, you will need to:
+
+1. Install Node >=18.0.0
+1. Install `pnpm` if not present in your system. Check [here](https://pnpm.io/installation) for detailed instructions.
+1. Install the dependencies: `pnpm i next react react-dom nextra nextra-theme-docs`
+1. Boot the guide with `pnpm dev`
+2. Browse the guide at `http://localhost:3000/`
 
 ## License
 
-This project is licensed under the MIT License.
+[MIT License](https://github.com/artyficial-labs/arty-platform-docs/blob/main/LICENSE)
 
 ## Citation 
 
-@article Saravia_Prompt_Engineering_Guide_2022,
-author: Saravia, Elvis,
-journal: https://github.com/dair-ai/Prompt-Engineering-Guide,
-month: 12,
-title: Prompt Engineering Guide,
-year: 2022
+---
+Artyficial Labs and Research was built on the research work by Dair-ai:
+
+```
+@article{Saravia_Prompt_Engineering_Guide_2022,
+author = {Saravia, Elvis},
+journal = {https://github.com/dair-ai/Prompt-Engineering-Guide},
+month = {12},
+title = {{Prompt Engineering Guide}},
+year = {2022}
+}
+```

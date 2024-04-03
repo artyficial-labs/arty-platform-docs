@@ -13,9 +13,9 @@ const config: DocsThemeConfig = {
     link: 'https://github.com/artyficial-labs/arty-platform-docs',
   },
   chat: {
-    link: 'https://discord.gg/d7j9un4s',
+    link: 'https://discord.gg/fYsFXz8ywm',
   },
-  docsRepositoryBase: 'https://github.com/artyficial-labs/arty-platform-docs/tree/dev/',
+  docsRepositoryBase: 'https://github.com/artyficial-labs/arty-platform-docs/tree/main/',
   footer: {
     text: 'Copyright © Artyficial Labs 2024',
   },
