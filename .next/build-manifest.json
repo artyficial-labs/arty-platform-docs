@@ -25,25 +25,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/artyficial-lang": [
+    "/techniques/consistency": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/artyficial-lang.js"
-    ],
-    "/artyficial-lang/classification": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/artyficial-lang/classification.js"
-    ],
-    "/artyficial-sec": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/artyficial-sec.js"
-    ],
-    "/papers": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/papers.js"
+      "static/chunks/pages/techniques/consistency.js"
     ],
     "/techniques/cot": [
       "static/chunks/webpack.js",

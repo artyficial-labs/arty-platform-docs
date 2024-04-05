@@ -2,9 +2,6 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/artyficial-lang": "pages/artyficial-lang.js",
-  "/artyficial-lang/classification": "pages/artyficial-lang/classification.js",
-  "/artyficial-sec": "pages/artyficial-sec.js",
   "/techniques/cot": "pages/techniques/cot.js",
-  "/papers": "pages/papers.js"
+  "/techniques/consistency": "pages/techniques/consistency.js"
 }
