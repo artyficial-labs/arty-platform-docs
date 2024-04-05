@@ -6,7 +6,6 @@ Motivated by the high interest in developing with Generative AI, we have compile
 
 🌐 [Artyficial Labs ](https://artyficiallabs.com/)
 
-
 Happy Prompting!
 
 ## Announcements / Updates
@@ -24,26 +23,11 @@ You can use this template for creating your documentation [Artyficial Research](
 To run the guide locally, for example to check the correct implementation of a new translation, you will need to:
 
 1. Install Node >=18.0.0
-1. Install `pnpm` if not present in your system. Check [here](https://pnpm.io/installation) for detailed instructions.
-1. Install the dependencies: `pnpm i next react react-dom nextra nextra-theme-docs`
-1. Boot the guide with `pnpm dev`
+1. Install `npm` if not present in your system. Check [here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) for detailed instructions.
+1. Install the dependencies: `npm i next react react-dom nextra nextra-theme-docs`
+1. Boot the guide with `npm run dev`
 2. Browse the guide at `http://localhost:3000/`
 
 ## License
 
 [MIT License](https://github.com/artyficial-labs/arty-platform-docs/blob/main/LICENSE)
-
-## Citation 
-
----
-Artyficial Labs and Research was built on the research work by Dair-ai:
-
-```
-@article{Saravia_Prompt_Engineering_Guide_2022,
-author = {Saravia, Elvis},
-journal = {https://github.com/dair-ai/Prompt-Engineering-Guide},
-month = {12},
-title = {{Prompt Engineering Guide}},
-year = {2022}
-}
-```

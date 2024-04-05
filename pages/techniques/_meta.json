@@ -1,4 +1,6 @@
 {
     "zeroshot": "Zero-shot Prompting",
-    "fewshot": "Few-Shot Prompting"
+    "fewshot": "Few-Shot Prompting",
+    "cot": "Chain-of-Thought",
+    "consistency": "Self-Consistency"
 }

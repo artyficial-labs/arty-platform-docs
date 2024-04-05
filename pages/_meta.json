@@ -4,6 +4,8 @@
   "text-generation": "Text Generation",
   "image-generation":"Image Generation",
   "techniques": "Techniques",
+  "applications": "LLM Applications",
+  "artyficial-lang": "Artyficial Lang",
   "papers": "Papers",
   "about": {
     "title": "About",
