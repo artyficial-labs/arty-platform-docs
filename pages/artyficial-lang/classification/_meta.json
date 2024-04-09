@@ -1,0 +1,4 @@
+{
+    "sentiment": "Sentimate Classification",
+    "sentiment_fewshot": "Few-Shot Sentiment Classification"
+}
