@@ -21,7 +21,6 @@
     "next": "^13.0.6",
     "nextra": "^2.13.2",
     "nextra-theme-docs": "latest",
-    "pnpm": "^8.15.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
