@@ -1,21 +1,30 @@
 {
-  "index": "Introduction",
-  "getting-started": "Getting Started",
-  "text-generation": "Text Generation",
-  "image-generation":"Image Generation",
-  "techniques": "Techniques",
-  "applications": "LLM Applications",
-  "artyficial-lang": "Artyficial Lang",
-  "artyficial-sec": "Artyficial Sec",
-  "papers": "Papers",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
-  "platform": {
-    "title": "Platform ↗",
-    "type": "page",
-    "href": "https://artyficiallabs.com",
-    "newWindow": true
+    "index": {
+        "title" : "Welcome",
+        "display" : "hidden",
+        "type" : "page"
+    },
+    "about": {
+      "title": "About",
+      "type": "page"
+    },
+    "platform": {
+      "title": "Platform ↗",
+      "type": "page",
+      "href": "https://artyficiallabs.com",
+      "newWindow": true
+    },
+    "blog": {
+      "title": "Blog",
+      "type": "page",
+      "href": "/blog",
+      "newWindow": false
+    },
+    "docs": {
+      "title": "Documents",
+      "type": "page",
+      "href": "/docs",
+      "newWindow": false
+    }
   }
-}
+  
