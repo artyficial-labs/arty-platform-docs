@@ -14,7 +14,7 @@ As shown in the figure above, Reflexion consists of three distinct models:
 
 In summary, the key steps of the Reflexion process are a) define a task, b) generate a trajectory, c) evaluate, d) perform reflection, and e) generate the next trajectory. The figure below demonstrates examples of how a Reflexion agent can learn to iteratively optimize its behavior to solve various tasks such as decision-making, programming, and reasoning. Reflexion extends the ReAct framework by introducing self-evaluation, self-reflection and memory components.
 
-!["Reflexion Examples"](../../img/research/reflexion-examples.png)
+!["Reflexion Examples"](/img/research/reflexion-examples.png)
 
 ## Results
 
@@ -22,15 +22,15 @@ Experimental results demonstrate that Reflexion agents significantly improve per
 
 When evaluated on sequential decision-making (AlfWorld) tasks, ReAct + Reflexion significantly outperforms ReAct by completing 130/134 tasks using self-evaluation techniques of Heuristic and GPT for binary classification.
 
-!["Reflexion ALFWorld Results"](../../img/research/reflexion-alfworld.png)
+!["Reflexion ALFWorld Results"](/img/research/reflexion-alfworld.png)
 
 Reflexion significantly outperforms all baseline approaches over several learning steps. For reasoning only and when adding an episodic memory consisting of the most recent trajectory, Reflexion + CoT outperforms CoT only and CoT with episodic memory, respectively. 
 
-!["Reflexion ALFWorld Results"](../../img/research/reflexion-hotpotqa.png)
+!["Reflexion ALFWorld Results"](/img/research/reflexion-hotpotqa.png)
 
 As summarized in the table below, Reflexion generally outperforms the previous state-of-the-art approaches on Python and Rust code writing on MBPP, HumanEval, and Leetcode Hard.
 
-!["Reflexion ALFWorld Results"](../../img/research/reflexion-programming.png)
+!["Reflexion ALFWorld Results"](/img/research/reflexion-programming.png)
 
 
 ## When to Use Reflexion?
