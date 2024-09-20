@@ -54,7 +54,7 @@ export function Blog() {
             ))}
         </span>
         <Link href={page.route} className="block _text-primary-600 underline underline-offset-2 decoration-from-font">
-          READMORE_TEXT
+          READMORE
         </Link>
       </p>
     </div>
