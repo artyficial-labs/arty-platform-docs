@@ -1,0 +1,35 @@
+---
+title: Artyficial Docs
+---
+
+import Link from 'next/link';
+
+export default function IndexPage() {
+  return (
+    <div className="relative isolate min-h-[80vh]">
+      <div className="mx-auto max-w-3xl py-32 sm:py-48 lg:py-56">
+        <div className="text-center">
+          <h2 className="text-3xl font-bold tracking-tight dark:text-white text-gray-900 sm:text-4xl ">
+            TL;DR
+          </h2>
+          <p className="p-3">Documentation Project for Arty v1.0.4 beta version</p>
+          <p>
+          <Link href="https://research.artyficiallabs.com/docs" className="link">
+              Get started
+            </Link>
+            <br />
+            <Link href="https://artyficiallabs.com" className="link">
+              Artyficial Labs v.1.0.4
+            </Link>
+            <br />
+            <Link href="https://github.com/artyficial-labs/arty-platform-docs" className="link">
+              Github Project
+            </Link>
+          </p>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+<IndexPage />

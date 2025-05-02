@@ -1,0 +1,14 @@
+{
+    "conversation-node": "Conversation Node",
+    "chat-preview-node": "Chat Preview Node",
+    "text-editor-node": "Text Editor Node",
+    "image-node": "Image Node",
+    "image-preview-node": "Image Preview Node",
+    "video-node": "Video Node",
+    "video-preview-node": "Video Preview Node",
+    "music-node": "Music Node",
+    "music-preview-node": "Music Preview Node",
+    "code-node": "Code Node",
+    "github-repo-node": "Github Repository Node",
+    "text-card-node": "Text Card Node"
+}

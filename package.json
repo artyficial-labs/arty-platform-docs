@@ -1,0 +1,40 @@
+{
+  "name": "artyficial-docs",
+  "version": "0.0.1",
+  "description": "Artyficial labs documentation",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artyficial-labs/arty-platform-docs.git"
+  },
+  "author": "Artyficial Labs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/artyficial-labs/arty-platform-docs/issues"
+  },
+  "homepage": "https://github.com/artyficial-labs/arty-platform-docs#readme",
+  "dependencies": {
+    "autoprefixer": "^10.4.20",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "cssnano": "^7.0.5",
+    "next": "^13.0.6",
+    "nextra": "^2.13.2",
+    "nextra-theme-docs": "latest",
+    "postcss": "^8.4.41",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "sass": "^1.77.8",
+    "tailwind-merge": "^2.5.2",
+    "tailwindcss": "^3.4.10",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "@types/node": "18.11.10",
+    "typescript": "^4.9.3"
+  }
+}

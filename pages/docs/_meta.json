@@ -1,0 +1,24 @@
+{
+  "index": "Introduction",
+  "getting-started": "Getting Started",
+  "labs": "Labs",
+  "lab_editor":"Lab Editor",
+  "nodes": "Nodes",
+  "workflows": "Workflows",
+  "about": {
+    "title": "About",
+    "type": "page"
+  },
+  "platform": {
+    "title": "Platform ↗",
+    "type": "page",
+    "href": "https://artyficiallabs.com",
+    "newWindow": true
+  },
+  "docs": {
+    "title": "Documents",
+    "type": "page",
+    "href": "/docs",
+    "newWindow": false
+  }
+}

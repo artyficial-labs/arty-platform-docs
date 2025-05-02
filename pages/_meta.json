@@ -1,0 +1,20 @@
+{
+    "index": {
+        "title" : "Welcome",
+        "display" : "hidden",
+        "type" : "page"
+    },
+    "platform": {
+      "title": "Platform ↗",
+      "type": "page",
+      "href": "https://artyficiallabs.com",
+      "newWindow": true
+    },
+    "docs": {
+      "title": "Documents",
+      "type": "page",
+      "href": "/docs",
+      "newWindow": false
+    }
+  }
+  
