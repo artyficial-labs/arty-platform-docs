@@ -3,5 +3,7 @@
     "image-flow": "Image Workflow",
     "video-flow": "Video Workflow",
     "music-flow": "Music Workflow",
-    "code-flow": "Code Workflow"
+    "code-flow": "Code Workflow",
+    "imagetovideo": "Image to Video Workflow",
+    "imgtocanvas": "Image to Canvas Workflow"
 }

@@ -10,5 +10,6 @@
     "music-preview-node": "Music Preview Node",
     "code-node": "Code Node",
     "github-repo-node": "Github Repository Node",
-    "text-card-node": "Text Card Node"
+    "text-card-node": "Text Card Node",
+    "design-node": "Design Whiteboard Node"
 }

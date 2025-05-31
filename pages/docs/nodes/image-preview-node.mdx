@@ -1,9 +1,25 @@
 ## Image Preveiw Node
 
-Displays images from the Image Generator Node or other sources. Handles various aspect ratios and provides download functionality. Designed to visualize the output of image generation processes.
+Displays images from the Image Generator Node or import an image. Handles various aspect ratios and provides download functionality. Designed to visualize the output of image generation processes or general image viewing. The image preview node does not currently support drag and drop functionality. 
 
 ![Image](/imagepreview-node.png)
+
+## Image Roles
+
+- General Image Previewing - For when you just need to preview an image
+- First Frame Image - For when you are working on image-to-video workflows and want to start of with a first frame of the image.
+- Subject Refenrence - This uses your image as a reference to generate a  video that is similar to your image with just a little twist in interpretation.
 
 ## Connectors
 
 - Image Generation Node
+- Video Generaion Node - output to a video generation node for image to video
+
+## Input port
+
+- Connect an image geneeration node to preview generated images from your image gen model node
+
+## Output port
+
+- Connects to a Video generation model for Img-to-video workflows. 
+
